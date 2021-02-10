@@ -1,4 +1,4 @@
-# Scr and Scss folders 
+# Src and Scss folders 
 
 ## Src sub folders 
 
